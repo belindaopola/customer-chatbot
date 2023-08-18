@@ -3,7 +3,7 @@ channels:
   - pytorch
 dependencies:
   - intel::intelpython3_core
-  - python=3.9
+  - python=3.8
   - pip
   - pytorch::pytorch==1.11.0
   - cpuonly
